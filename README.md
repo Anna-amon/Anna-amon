@@ -1,4 +1,4 @@
-Hello! I'm a data analyst, with a legal and third sector background. I've recently completed an MSc in Data Science, reflecting my love of data, problem solving and continuous learning. Have a scroll down the page, and you'll find my projects!
+Hello! I'm a data analyst, with a legal and third sector background. I've recently completed an MSc in Data Science, reflecting my love of using data to tell a story, problem solving, and continuous learning. Have a scroll down the page, and you'll find my projects!
 
 ![Example Image](mountain_contact.jpg)
 
