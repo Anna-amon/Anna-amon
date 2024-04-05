@@ -1,5 +1,5 @@
 Hello! :wave: :sunflower:
-I'm a data analyst, with a background in the legal and charity sector, and MSc in Data Science. You'll find my projects below...
+I'm a data analyst, with a background in the legal and charity sector, and an MSc in Data Science. You'll find my projects below...
 
 ![Example Image](mountain_contact.jpg)
 
