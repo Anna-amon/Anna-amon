@@ -1,10 +1,7 @@
-Hi! I'm Anna :wave: :sunflower:
-
-If you'd like to contact me: anna.lauren.nash@hotmail.co.uk
-
+Hi! :wave: :sunflower:
 You'll find my projects below...
 
-![Example Image](mountain.jpg)
+![Example Image](mountain_email.jpg)
 
 Inspiring Scotland: survey data of young people over Scotland.
    - Shanarri Wellbeing scores and Employment Outcomes
