@@ -10,4 +10,4 @@ I'm a data analyst, with a background in the legal and charity sector, and an MS
 
 # Data Science - Python
 
-# Database Anlysis - SQL
+# Querying a database - SQL
