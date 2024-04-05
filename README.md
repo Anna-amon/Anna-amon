@@ -1,5 +1,5 @@
-Hi! :wave: :sunflower:
-You'll find my projects below...
+Hello! :wave: :sunflower:
+I'm a data analyst, with a background in the legal and charity sector. You'll find my projects below...
 
 ![Example Image](mountain_email.jpg)
 
