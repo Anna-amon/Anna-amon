@@ -9,3 +9,8 @@ Hello! I'm a Data Analyst, with a legal and third sector background. I've recent
 | Inspiring Scotland | [This analysis is private due to employer GDPR](https://github.com/Anna-amon/Inspiring-Scotland.git)| January 2024: An analysis of a database containing survey data from young people over Scotland. The analysis considered Shanarri Wellbeing scores, Employment Outcomes and the Barriers to Employment, all of which relate to Key Performance Indicators for reporting to funders |
 
 # Querying a database - SQL
+
+
+| Project         | Link | Content                                                                                          |
+|-------------------|------|--------------------------------------------------------------------------------------------------|
+| SQL Challenge - Querying Data_Bank | [Click here to see the analysis](https://github.com/Anna-amon/SQL_Challenge_1)| April 2024: completing [case study four of the 8 week SQL Challenge](https://8weeksqlchallenge.com/case-study-4/).  |
