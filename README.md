@@ -14,4 +14,4 @@ Hello! I'm a Data Analyst, with a legal and third sector background. I've recent
 | Project         | Link | Content                                                                                          |
 |-------------------|------|--------------------------------------------------------------------------------------------------|
 | SQL Challenge - Querying Data_Bank | [Click here to see the analysis.](https://github.com/Anna-amon/SQL_Challenge_1)| April 2024: completing [case study four of the 8 week SQL Challenge](https://8weeksqlchallenge.com/case-study-4/).  |
-| Querying the Orchestra Database | [Click here to see the analysis.](https://8weeksqlchallenge.com/case-study-4/)| April 2024: querying the Orchestras database containing details of concerts, members and orchestras.
+| Querying the Orchestra Database | [Click here to see the analysis.](https://github.com/Anna-amon/SQL_Orchestra_Database)| April 2024: writing queries for the conceptual Orchestras database containing details of concerts, members and orchestras and using the ER diagram for guidance.
