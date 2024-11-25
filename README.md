@@ -1,8 +1,10 @@
 Hello! I'm a Data Analyst, with a legal and third sector background. I've recently completed an MSc in Data Science, reflecting my love of analysing data to tell a story, uncover insights and solve a problem. Have a scroll down the page, and you'll find my projects!
 
 # Data Science and Analysis - Python
+
 | Project         | Link | Content                                                                                          |
 |-------------------|------|--------------------------------------------------------------------------------------------------|
+| Life Satisfaction in the UK by age - UKHLS Dataset | [Click here to see the analysis.](https://github.com/Anna-amon/Life_Satisfaction_UKHLS.git) | August 2024: Understanding that you can’t truly take credit for your successes, nor truly blame others for their failures will humble you and make you more compassionate. Empathy is intuitive, but is also something you can work on, intellectually. |
 | Image Classification - Emotion Dataset | [Click here to see the analysis.](https://github.com/Anna-amon/classification_emotions/blob/main/Emotion_Classification.ipynb)| May 2024: Modelling Deep Neural Networks to complete a classification task of thousands of pixel images data. The aim is to classify the images into the correct emotion (happy😃, sad 😭, angry😡 etc.) |
 | Inspiring Scotland | [Sorry! This analysis is private due to employer GDPR.](https://github.com/Anna-amon/Inspiring-Scotland.git)| January 2024: analysis of a database containing survey data from young people over Scotland. The analysis considered Shanarri Wellbeing scores, Employment Outcomes and the Barriers to Employment, all of which relate to Key Performance Indicators for reporting to funders |
 | UKHLS Dataset | [Click here to see the analysis.](https://github.com/Anna-amon/UKHLS/tree/main)| May 2024: exploratory analysis of the UKHLS dataset. |
